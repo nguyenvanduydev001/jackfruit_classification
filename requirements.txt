@@ -1,4 +1,4 @@
-torch==2.2.0
+torch==2.5.0
 torchvision
 torchaudio
 ultralytics==8.2.14
