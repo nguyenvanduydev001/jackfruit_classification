@@ -1,8 +1,7 @@
-streamlit
+torch==2.2.0
+torchvision
+torchaudio
 ultralytics==8.2.14
-torch==2.7.1
-torchvision==0.22.1
-opencv-python
-Pillow
+streamlit
+pillow
 numpy
-matplotlib
